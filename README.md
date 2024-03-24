@@ -1,4 +1,4 @@
-#3D-CA
+# 3D-CA
 Based on the theory of cellular automata and the existing multi-dimensional cellular automata encryption algorithm, this paper proposes a three-dimensional cellular automata 3D CA(3 Dimensional Cellular Automata) encryption system to study its application in the fields of symmetric encryption, hash encryption, the research results and innovation points are as follows:
 1. At present, most of the research focuses on two-dimensional cellular automata in the fields of random number generation, symmetric encryption algorithm, hash encryption, etc.. and the research in the field of three-dimensional cellular automata is far from mature. This paper attempts to construct two evolutionary rules based on two-dimensional Von Neumann neighborhood structure, and apply them in three-dimensional space, explore their applications in the fields of symmetric encryption, hash encryption according to their characteristics.
 2. By analyzing the two evolutionary rules in 1, rule1 and rule2, It can be proved that the reversibility of rule1 and the zeroing of rule2, the xor homomorphism plaintext reduction characteristics of the two.
